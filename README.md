@@ -1,66 +1,31 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Laravel - Simple Pos System
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Developed using the ****Laravel**  framework**, this is a simple POS system featuring authentication and CRUD functionality. The system allows users to process sales, manage inventory, and handle user accounts with a role-based system (Saler, Manager, Admin). It uses **MySQL** as the database.
 
-## About Laravel
+## How to use
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+    Step 1 Download MySQL File
+    Step 2 Import in PHPmyadmin(MySQL)
+    Step 3 php artisan serve
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+   [Here! MySQL File](https://drive.google.com/drive/folders/18IRrksXRQk0_aQP7C-YfoNEBP49Er8dX?usp=sharing)
+ 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Picture
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+> ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczNuLLKy_3-wZ3uMRcoFSIHAxslDqdHhhNV_AcQGV3hb8ZudXDq8ym4f_23HYzLjYy_5KGrUrHkVDycre71rGLYqi4HW1BGX1chQIqzItYithEYOSOQdQq3p5e_Fw3gez9juNijNH511g7pXO6J1Jgs=w1528-h913-s-no-gm?authuser=0)
+> 
+>    ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczMjjR3lJpvQmq5FQJ7ngqgvE-rwpySrKckFAUK_Zppzm4WLpgrg-cUghyICtifQU2piYi7yteaO5rmeoFeDD7O-_nnKW9BK0-3P4mYqNtGqFO20wPRfHAEGZHjrdoWyBpH-IQOU_CXNJqoV-A4eadE=w1528-h913-s-no-gm?authuser=0)
+>      ![enter image description here](https://lh3.googleusercontent.com/pw/AP1GczO0T4bnSmlBLxQOcoOIRqP-wi6BM0YCE0hyxR0S5TbEsAu9nXLFC5KWvLI8aaRExJpjQZcrD7AvDEmMny6gBpMfOBYyBSCv-Hn6fm-cnpRnwIVmP1lKX3UUxSdhmC9MoFjdHwyT13lzVvM8bH7nFhY=w1920-h912-s-no-gm?authuser=0)
+> ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczN1gReJC78bDFPcsR-n5KhLwZkqqSDRPPW-uo8oSjmi3v6na-C20rmaq_hyAW9-IUpRJhCBTAq3cFhqjFLQIFnCKj06zJ3we7FYsCZ8ZOFtFA-uV5aYRVZDX9-pYuiI68QZ6_YsJsYojG7hugOublE=w1920-h912-s-no-gm?authuser=0)
+> ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczPn2cvrcVx8ZCS4268CCF7-9W6J6gcy7A1dMdaJGKY7JOR5aXwcmhfclabQ2Vx-EVjTaNEgxP_49l3vmTjilavRb3NedcBWwTqbC71T3OlkcjEUoA5OISo978rqVJqoSP0XYpQZkXZLNgdvFwkILi0=w1920-h912-s-no-gm?authuser=0)
+> ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczPRl8IdnSnPimuCKW0d1XntdJw1VmYMcScLbcAlG-cC1Ck2u422C2jfTCYuLb52JYzu5AKtYfwswVEZZbz3jwX_K2bpxcy9HAVS2dRfkRiCzXVHA3RBOnVXMcKOnNklc7cP7endB2oqFz6THHqPdS8=w1920-h912-s-no-gm?authuser=0)
+> ![enter image description
+> here](https://lh3.googleusercontent.com/pw/AP1GczPbxaHD7IIhvTw_abYJ_fddfz05Mkheg0_XwRfSWYR4hzB4mxQu70VhCsuki-nblF4lxXDW9OJj6HR34yfqimlyERX1HsQLl1LZM0ZnIimO-uKbErjnCBfj1Z3oj2ktDvz9crAhwsNhcxOhxpOk9Jc=w1897-h907-s-no-gm?authuser=0)
