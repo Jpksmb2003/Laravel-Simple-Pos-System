@@ -9,6 +9,7 @@ Developed using the ****Laravel**  framework**, this is a simple POS system feat
     Step 3 php artisan serve
 
    [Here! MySQL File](https://drive.google.com/file/d/1SeeLB_XzLJPLuEqFSNPC0vNrQiFF8n4j/view?usp=sharing)
+
    [Here! User List](https://drive.google.com/file/d/19EzMkUz559RV2r41m7LiTbmqzjSv4m9O/view?usp=sharing)
    
    
